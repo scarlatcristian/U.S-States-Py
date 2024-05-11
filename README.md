@@ -16,7 +16,7 @@ pip install pandas
 3. Place the script and the required files in the same directory.
 4. Run the script using Python:
 
-python us_state_game.py
+python main.py
 
 
 5. Follow the on-screen instructions to play the game.
